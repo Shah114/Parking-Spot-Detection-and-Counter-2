@@ -32,3 +32,17 @@ The project is divided into two main files: <br/>
 <br/>
 
 ## Installation
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/Shah114/Parking-Spot-Detection-and-Counter-2.git
+   ```
+
+2. Install the required dependencies:
+
+   ```bash
+   pip install opencv-python cvzone pickle
+   ```
+<br/>
+
+## Usage
