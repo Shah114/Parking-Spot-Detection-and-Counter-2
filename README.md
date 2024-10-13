@@ -65,5 +65,8 @@ The project is divided into two main files: <br/>
    ```bash
    python main.py
    ```
-3. The script will process the video and show real-time detection of occupied and available parking spots.
+3. The script will process the video and show real-time detection of occupied and available parking spots. <br/>
+<br/>
+
+## Example
 
