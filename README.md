@@ -74,4 +74,11 @@ The project is divided into two main files: <br/>
 <br/>
 
 ## Dependencies
+* Python 3.x
+* OpenCV (opencv-python)
+* CvZone (cvzone)
+* Pickle (part of Python standard library) <br/>
+<br/>
+
+## Future Improvements
 
