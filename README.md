@@ -18,4 +18,17 @@ The project is divided into two main files: <br/>
 2. main.py: This is the main script that detects and counts the occupied parking spots from a video feed of the parking area. <br/>
   * Loads the saved parking spot positions from CarParkPos.pkl.
   * Processes the video to detect whether the parking spots are occupied or vacant.
-  * Displays the parking spot status and counts available spots in real-time on the video feed.
+  * Displays the parking spot status and counts available spots in real-time on the video feed. <br/>
+<br/>
+
+## How It Works
+1. Parking Spot Selection:
+   * Run ParkingSpacePicker.py to manually select parking spots on an image.
+   * The selected positions will be saved in a file called CarParkPos.pkl. <br/>
+2. Parking Spot Detection:
+   * Run main.py with a video file of the parking area.
+   * The program will load the parking spot positions from the pickle file and check for cars in each spot.
+   * The video output will display whether each spot is occupied and show the count of available spots. <br/>
+<br/>
+
+## Installation
