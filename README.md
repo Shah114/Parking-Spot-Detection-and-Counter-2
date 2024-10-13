@@ -46,3 +46,23 @@ The project is divided into two main files: <br/>
 <br/>
 
 ## Usage
+**Parking Spot Selection (Labeling)** <br/>
+1. Place an image of the parking area in the project folder.
+2. Run the ParkingSpacePicker.py script to manually select parking spots.
+
+   ```bash
+   python ParkingSpacePicker.py
+   ```
+3. Left-click on the image to add rectangular frames for parking spots.
+4. If you make a mistake, right-click to remove the frame you want.
+5. Once you're done, close the window, and the parking spot positions will be saved in a file called CarParkPos.pkl. <br/>
+
+**Parking Spot Detection** <br/>
+1. Place a video of the parking area in the project folder.
+2. Run the main.py script to detect parked cars and count available spots.
+
+   ```bash
+   python main.py
+   ```
+3. The script will process the video and show real-time detection of occupied and available parking spots.
+
