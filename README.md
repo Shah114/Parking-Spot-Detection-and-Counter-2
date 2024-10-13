@@ -12,13 +12,13 @@ This project is a computer vision-based parking spot detection and counter. The 
 ## Project Structure
 The project is divided into two main files: <br/>
 1. ParkingSpacePicker.py: This script is used to manually select and label parking spots on an image of the parking area. <br/>
-  * Left-click to add a rectangular frame to define a parking spot.
-  * Right-click to remove a previously added parking spot.
-  * After the selection, the parking spots' positions are saved in a CarParkPos.pkl file using the Pickle module. This file serves as the parking spot map.
+   * Left-click to add a rectangular frame to define a parking spot.
+   * Right-click to remove a previously added parking spot.
+   * After the selection, the parking spots' positions are saved in a CarParkPos.pkl file using the Pickle module. This file serves as the parking spot map.
 2. main.py: This is the main script that detects and counts the occupied parking spots from a video feed of the parking area. <br/>
-  * Loads the saved parking spot positions from CarParkPos.pkl.
-  * Processes the video to detect whether the parking spots are occupied or vacant.
-  * Displays the parking spot status and counts available spots in real-time on the video feed. <br/>
+   * Loads the saved parking spot positions from CarParkPos.pkl.
+   * Processes the video to detect whether the parking spots are occupied or vacant.
+   * Displays the parking spot status and counts available spots in real-time on the video feed. <br/>
 <br/>
 
 ## How It Works
