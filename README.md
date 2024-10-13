@@ -81,4 +81,6 @@ The project is divided into two main files: <br/>
 <br/>
 
 ## Future Improvements
-
+* Add support for automatic parking spot detection.
+* Integrate a live camera feed for real-time detection.
+* Improve detection accuracy by using a machine learning model.
