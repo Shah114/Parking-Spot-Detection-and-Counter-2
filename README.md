@@ -69,4 +69,9 @@ The project is divided into two main files: <br/>
 <br/>
 
 ## Example
+* Sample Image: The project includes a sample image for parking spot selection.
+* Sample Video: A sample video is provided to demonstrate the real-time parking detection. <br/>
+<br/>
+
+## Dependencies
 
