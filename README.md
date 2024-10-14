@@ -87,5 +87,5 @@ The project is divided into two main files: <br/>
 <br/>
 
 ## Example
-[Watch the demo video](Video/PSDC.mp4)
+![video alt](Video/PSDC.mp4)
 
