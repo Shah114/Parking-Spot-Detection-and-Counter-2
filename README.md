@@ -88,4 +88,6 @@ The project is divided into two main files: <br/>
 
 ## Example
 [Watch the demo video](Video/PSDC.mp4)
+<br/>
 
+![image alt](Example/example_image.png)
