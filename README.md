@@ -84,3 +84,8 @@ The project is divided into two main files: <br/>
 * Add support for automatic parking spot detection.
 * Integrate a live camera feed for real-time detection.
 * Improve detection accuracy by using a deep learning model.
+<br/>
+
+## Example
+[Watch the demo video](Video/PSDC.mp4)
+
