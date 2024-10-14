@@ -68,7 +68,7 @@ The project is divided into two main files: <br/>
 3. The script will process the video and show real-time detection of occupied and available parking spots. <br/>
 <br/>
 
-## Example
+## Sample
 * Sample Image: The project includes a sample image for parking spot selection.
 * Sample Video: A sample video is provided to demonstrate the real-time parking detection. <br/>
 <br/>
