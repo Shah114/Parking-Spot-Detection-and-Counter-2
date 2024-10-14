@@ -5,9 +5,9 @@ import cvzone
 import numpy as np
 
 # Import Video
-cap = cv2.VideoCapture(r'C:\Projects\ParkingSpot2\carPark.mp4')
+cap = cv2.VideoCapture('carPark.mp4')
 
-with open('C:/Projects/ParkingSpot2/CarParkPos', 'rb') as f:
+with open('CarParkPos', 'rb') as f:
             posList = pickle.load(f)
 
 # Width and Height
