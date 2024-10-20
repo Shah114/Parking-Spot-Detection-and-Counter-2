@@ -91,3 +91,5 @@ The project is divided into two main files: <br/>
 <br/>
 
 ![image alt](Example/example_image.png)
+
+<br/>
